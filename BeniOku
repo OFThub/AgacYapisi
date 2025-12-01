@@ -1,0 +1,1 @@
+VS Code terminal kullanarak 'make' komudu ile çalışıtrınca kod çalışır ama klasördeki exe yi çalıştırıp çalıştırmak istiyorsanız agaclar.txt yi bin klasörünün içine alınması gerekir.
